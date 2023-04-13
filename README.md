@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ELEVEN1000/ELEVEN1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Костя
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Костя
 =============================================================================================================================
 
 Веб-разработчик
@@ -11,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 На данный момент я прохожу обучение в Я.Практикум.
 
-* 🌍  I'm based in Томск
+* 🌍  Проживаю в Томске
 * ✉️  You can contact me at [https://t.me/kostya\_mik](mailto:https://t.me/kostya_mik)
 
 ### Skills
