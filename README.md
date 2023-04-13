@@ -4,14 +4,11 @@
 Веб-разработчик
 ---------------
 
-На данный момент я прохожу обучение в Я.Практикум.
+Привет! Я совсем недавно начал изучать веб, решил пройти курс от Я.ПРАКТИКУМ (далее ЯП) и мне понравилось :) Во время прохождения я смог реализовать 4 проекта, которые Вы сможете посмотреть ниже. Раньше я был обычным техническим спецалистом, но мне надоело. Я давно увлекался вебом, но всё время бросал. В конце концов взял себя в руки и пошёл учиться в ЯП и наконец-то смог чему то научиться по настоящему.<br>
+Ниже вы сможете по подробнее узнать по моих навыках. 
 
-* 🌍  Проживаю в Томске
-* ✉️  You can contact me at [https://t.me/kostya\_mik](mailto:https://t.me/kostya_mik)
-
-### Skills
-
-
+### Мои навыки:
+<br>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,13 +27,12 @@
 </p>
 
 
-### Socials
+### Мои соц. сети
+<br>
+<p align="left"> <a href="https://vk.com/kostyamik" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/></a>
+</p><p align="left"> <a href="https://t.me/kostya_mik" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
 
-<p align="left"> <a href="https://vk.com/kostyamik" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/></a></p><p align="left"> <a href="https://t.me/kostya_mik" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
+### Моя статистика
+<br>
 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ELEVEN1000"><img src="https://github-readme-stats.vercel.app/api?username=ELEVEN1000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ELEVEN1000's GitHub stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
