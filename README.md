@@ -32,7 +32,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ELEVEN1000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://vk.com/kostyamik" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" width="32" height="32" /></a></p>
 
 ### Badges
 
